@@ -1,0 +1,16 @@
+[
+{
+  "modid": "yourenotthebossofme",
+  "name": "You're Not the Boss of Me",
+  "description": "Make entities of your choice non-tamable",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Laike_Endaril"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
