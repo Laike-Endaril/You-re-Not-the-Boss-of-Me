@@ -6,6 +6,7 @@ import net.minecraftforge.common.config.Config;
 public class NoBossConfig
 {
     @Config.Name("Untamables")
+    @Config.LangKey(YoureNotTheBossOfMe.MODID + ".config.untamables")
     @Config.RequiresMcRestart
     public static String[] untamableEntities = {};
 }
